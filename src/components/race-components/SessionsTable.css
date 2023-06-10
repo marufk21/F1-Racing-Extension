@@ -1,0 +1,25 @@
+.session-times {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 4px;
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.flex-order-1 {
+  order: 1;
+}
+.flex-order-2 {
+  order: 2;
+}
+.flex-order-3 {
+  order: 3;
+}
+.flex-order-4 {
+  order: 4;
+}
+.flex-order-5 {
+  order: 5;
+}

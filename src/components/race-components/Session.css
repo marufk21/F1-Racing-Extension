@@ -1,0 +1,31 @@
+.session {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center;
+  justify-items: start;
+  gap: 1rem;
+  text-transform: uppercase;
+}
+
+.border-b {
+  padding-bottom: 4px;
+  border-bottom: 2px solid var(--f-gray);
+}
+
+.session-date {
+  font-size: 12px;
+  color: var(--f-light-gray);
+  place-self: center;
+}
+
+.session-time {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--f-gray);
+  padding: 6px 10px;
+  border-radius: 10px;
+  place-self: end;
+  min-width: 100%;
+}
