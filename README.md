@@ -35,7 +35,7 @@ To install the extension, follow these steps:
 
 If you would like to modify or contribute to the F1 Racing Extension, follow these steps to get started:
 
-- Clone this project's GitHub repository or download the ZIP file.
+- Clone this project GitHub repository or download the ZIP file.
 - Run `npm install` to install dependencies.
 - Use `npm run dev` to start the development server.
 - Edit the code and save your changes. You can see the changes by refreshing your browser.
